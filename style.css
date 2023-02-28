@@ -200,19 +200,19 @@ section .title::after {
 }
 
 
-
-
 .btn {
-    display: inline-block;
-    color: var(--bg-clr);
-    background: var(--main-clr);
-    font-size: var(--p-font);
-    padding: 10px 40px;
-    font-weight: 500;
-    line-height: 24px;
-    border-radius: 30px;
-    transition: ease 0.4s;
+  display: inline-block;
+  color: var(--bg-clr);
+  background: var(--main-clr);
+  font-size: var(--p-font);
+  padding: 10px 40px;
+  font-weight: 500;
+  line-height: 24px;
+  border-radius: 30px;
+  transition: ease 0.4s;
 }
+
+
 .btn:hover {
     transform: scale(1.1);
 }
